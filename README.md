@@ -1,7 +1,7 @@
 # Detroit
 An End-to-end System for Practical and Accessible IoT
 
-##Abstract
+## Abstract
 The Internet of Things (IoT) is a rapidly emerging set of technologies in which ordinary objects are equipped with digital intelligence -- the ability to sense, analyze, actuate, control their environment automatically.   By linking our physical and digital worlds, IoT makes it possible to perform advanced data analysis in situ -- to enhance decision-making by humans, to detect, diagnose, and remediate problems without human intervention, and to automate operations throughout our economy (e.g. in health care, military, agriculture, technology, financial, transportation, energy sectors, among others). This project focuses on how to securely program, deploy, and manage IoT systems and applications. 
 
 Specifically, the project will develop a portable, multi-tier (sensors, edge, cloud) platform that supports "write-once-run-anywhere" programming for IoT. The platform will enable low-latency data analytics and response in or near the sensing tier, while leveraging emerging public cloud technologies at the edge and cloud tiers.  High-level language support and platform services (for monitoring, security policy enforcement, and deployment management) will be used to hide the complexities of IoT, give developers tools with which they can specify and automatically check security and deployment properties, and automate placement, end-to-end authentication, and repair/update for IoT applications. 
